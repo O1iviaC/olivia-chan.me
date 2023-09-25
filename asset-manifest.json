@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/olivia-chan.me/static/css/main.80470af4.css",
+    "main.js": "/olivia-chan.me/static/js/main.20ab6213.js",
+    "static/media/Proj_hero.png": "/olivia-chan.me/static/media/Proj_hero.4242ca186d2f89f378e8.png",
+    "static/media/QQ.jpg": "/olivia-chan.me/static/media/QQ.79076ff7e9112f0a4b52.jpg",
+    "static/media/OC_Logo.png": "/olivia-chan.me/static/media/OC_Logo.c39365998992cab4e4e2.png",
+    "static/media/tip-time.png": "/olivia-chan.me/static/media/tip-time.e8068a50173304b52d11.png",
+    "index.html": "/olivia-chan.me/index.html",
+    "main.80470af4.css.map": "/olivia-chan.me/static/css/main.80470af4.css.map",
+    "main.20ab6213.js.map": "/olivia-chan.me/static/js/main.20ab6213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80470af4.css",
+    "static/js/main.20ab6213.js"
+  ]
+}

@@ -1,6 +1,6 @@
 .footer{
     width: 100%;
-    padding: 6rem 0;
+    padding: 3rem 0;
     background-color: black;
 
 }
@@ -21,7 +21,7 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 40px;
+    grid-gap: 30px;
 }
 
 .left{
@@ -60,10 +60,13 @@
     .footer-container{
         display: grid;
         grid-template-columns: 1fr;
+        grid-gap: 0px;
     }
-
-    .email{
+    .right{
+        height: 100%;
+        max-width:100%;
         display: flex;
-        margin-bottom:0.8rem;
+        flex-direction:column;
+        padding: 1rem;
     }
 }

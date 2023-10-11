@@ -1,9 +1,9 @@
 .project-heading{
     text-align: center;
-    padding: 4rem 0 2rem 0;
+    padding: 3rem 0 2rem 0;
 }
 
-project-container{
+.project-container{
     max-width: 1140px;
     margin: auto;
     display: grid;
@@ -13,12 +13,14 @@ project-container{
 }
 
 .project-card{
-    background: white;
-    padding: 1.2rem 1rem;
+    background: rgb(184, 222, 222);
+    padding: 1.2rem 1.2rem;
+    
 }
 
 .project-card img{
     width: 100%;
+  
 }
 
 .project-title {
@@ -27,7 +29,7 @@ project-container{
 .pro-details p{
     padding-bottom: 1rem;
     font-size: 1.1rem;
-    text-align: justify;;
+    text-align: justify;
 }
 
 .pro-btns{
@@ -40,11 +42,22 @@ project-container{
     padding: 0.5rem 1rem;
 }
 
-
-@media screen and (width: 740px) {
+@media screen and (max-width: 1040px) {
     .project-container{
         max-width:90%;
         margin:auto;
         grid-template-columns: 1fr;
+    }
+    .project-card{
+        background: rgb(184, 222, 222);
+        max-width: 100%;
+        padding: 1.2rem 1.2rem;
+        
+    }
+    .project-heading{
+        text-align: center;
+        padding: 2rem 0 1.5rem 0;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }

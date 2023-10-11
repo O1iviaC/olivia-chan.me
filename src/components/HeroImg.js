@@ -17,7 +17,7 @@ const HeroImg = () => {
                 Hi, name is Olivia:
             </p>
             <h1>
-                Welcome to My Website! (temporarily under construction)
+                Welcome to My Website!
             </h1>
             <div>
                 <Link to="/about" className="btn">About</Link>

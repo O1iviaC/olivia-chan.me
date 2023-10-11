@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.80470af4.css",
-    "main.js": "/static/js/main.815e5073.js",
+    "main.css": "/static/css/main.751c1eb8.css",
+    "main.js": "/static/js/main.e47dd46b.js",
     "static/media/Proj_hero.png": "/static/media/Proj_hero.4242ca186d2f89f378e8.png",
+    "static/media/support_duck.png": "/static/media/support_duck.4ce7a9e5d235eabccba3.png",
+    "static/media/tip-time.png": "/static/media/tip-time.6105c779a73aa24b26bd.png",
+    "static/media/pfp.png": "/static/media/pfp.bb13c9e58ea90cafde31.png",
     "static/media/QQ.jpg": "/static/media/QQ.79076ff7e9112f0a4b52.jpg",
+    "static/media/website.png": "/static/media/website.269a97ed953134736f5c.png",
     "static/media/OC_Logo.png": "/static/media/OC_Logo.c39365998992cab4e4e2.png",
-    "static/media/tip-time.png": "/static/media/tip-time.e8068a50173304b52d11.png",
     "index.html": "/index.html",
-    "main.80470af4.css.map": "/static/css/main.80470af4.css.map",
-    "main.815e5073.js.map": "/static/js/main.815e5073.js.map"
+    "main.751c1eb8.css.map": "/static/css/main.751c1eb8.css.map",
+    "main.e47dd46b.js.map": "/static/js/main.e47dd46b.js.map"
   },
   "entrypoints": [
-    "static/css/main.80470af4.css",
-    "static/js/main.815e5073.js"
+    "static/css/main.751c1eb8.css",
+    "static/js/main.e47dd46b.js"
   ]
 }

@@ -24,8 +24,7 @@ const ProjectCardData = [
     {
         imgsrc: website,
         title: "Personal Portfolio Website",
-        text: "It's this website right here! I created this using ReactJS, HTML, and CSS to give you a snapshot of who I am, "+
-               "my capabilities, and what I'm up to!" ,
+        text: "It's this website right here! I created this using ReactJS and CSS to give you a snapshot of who I am." ,
         view: "https://github.com/O1iviaC/olivia-chan.me",
         
     },

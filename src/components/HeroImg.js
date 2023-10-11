@@ -21,7 +21,7 @@ const HeroImg = () => {
             </h1>
             <div>
                 <Link to="/about" className="btn">About</Link>
-                <Link to="/contact" className="btn-light">Contact</Link>
+                <Link to="https://docs.google.com/forms/d/e/1FAIpQLSeQq27ZEb4DwURKKOWKDR64OVYZqLtV4JApbRzF3h488CiqVw/viewform" className="btn-light">Contact</Link>
             </div>
         </div>
 

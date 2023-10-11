@@ -40,7 +40,7 @@ const Navbar = () => {
                 <Link to="/projects">Projects</Link>
             </li>
             <li>
-                <Link to="/contact">Contact</Link>
+                <Link to="https://docs.google.com/forms/d/e/1FAIpQLSeQq27ZEb4DwURKKOWKDR64OVYZqLtV4JApbRzF3h488CiqVw/viewform">Contact</Link>
             </li>
         </u1>
         <div className="hamburger" onClick= 

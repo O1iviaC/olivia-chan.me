@@ -7,7 +7,7 @@ const AboutContent = () => {
   return (
     <div className ="about">
         <div className="left">
-            <h1> Meet Olivia:</h1>
+            <h1> Meet Olivia</h1>
             <p> How's it going? 👋 I am a student at the University of Waterloo and
                 Wilfrid Laurier University pursuing a double-degree in Computer Science
                 and Business Administration. My ultimate career goal is to leverage my

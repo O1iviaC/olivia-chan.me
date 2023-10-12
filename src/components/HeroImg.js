@@ -14,7 +14,7 @@ const HeroImg = () => {
         <div className="content" >
             <img className= "logo" src = {logo} alt="logo"/>
             <p>
-                Hi, name is Olivia:
+                Hi, name is Olivia
             </p>
             <h1>
                 Welcome to My Website!

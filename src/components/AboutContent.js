@@ -8,15 +8,15 @@ const AboutContent = () => {
     <div className ="about">
         <div className="left">
             <h1> Meet Olivia:</h1>
-            <p> How's it going? 👋 I am a student at the University of Waterloo and 
-                Wilfrid Laurier University pursuing a double-degree in Computer Science and Business Administration.
-                My ultimate goal for my career is to be able to create technological solutions that promote social good
-                with the help of my knowledge in business.
+            <p> How's it going? 👋 I am a student at the University of Waterloo and
+                Wilfrid Laurier University pursuing a double-degree in Computer Science
+                and Business Administration. My ultimate career goal is to leverage my
+                business knowledge to create technological solutions that make a positive social impact.
             </p>
             <p>
-                I belive that businesses give technology purpose but also that without
-                technology we miss out on a lot of great businesses, so whether it's in a developer, consulting, or management 
-                capacity I hope to create impact in both fields.
+                I believe that businesses give technology purpose but also that technology helps to make great
+                businesses. So whether it's in a developer, consulting, or management capacity I believe my skills
+                can help take any business or their technology to the next level!
             </p>
             <Link to="https://docs.google.com/forms/d/e/1FAIpQLSeQq27ZEb4DwURKKOWKDR64OVYZqLtV4JApbRzF3h488CiqVw/viewform">
                 <button className="btn">Contact</button>

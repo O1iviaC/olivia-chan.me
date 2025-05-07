@@ -1,16 +1,8 @@
 import tiptime from "../assets/tip-time.png";
 import duck from "../assets/support_duck.png";
-import website from "../assets/website.png";
-import pomodoro from "../assets/pomodoro.png";
+import website from "../assets/website.png"
 
 const ProjectCardData = [
-    {
-        imgsrc: pomodoro,
-        title: "Pomodoro - Web App",
-        text: "This web app is a timer to help you follow the pomodoro method of working. The timer automatically switches between each mode (work, short, long break), with both auditory and visual cues to indicate the end of a session. With design that accomodates AA accessibility standards this timer is suitable for all audiences.",
-        view: "https://github.com/O1iviaC/pomodoro",
-
-    },
     {
         imgsrc: tiptime,
         title: "Tip Time - Mobile App",

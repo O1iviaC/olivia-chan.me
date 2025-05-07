@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c098cee.css",
+    "main.js": "/static/js/main.0b695f56.js",
+    "static/media/pomodoro.png": "/static/media/pomodoro.feb909cd9f5e117680e8.png",
+    "static/media/Proj_hero.png": "/static/media/Proj_hero.4242ca186d2f89f378e8.png",
+    "static/media/support_duck.png": "/static/media/support_duck.4ce7a9e5d235eabccba3.png",
+    "static/media/interests.png": "/static/media/interests.5a469ea2888c29d8eedc.png",
+    "static/media/tip-time.png": "/static/media/tip-time.6105c779a73aa24b26bd.png",
+    "static/media/pfp.png": "/static/media/pfp.bb13c9e58ea90cafde31.png",
+    "static/media/QQ.jpg": "/static/media/QQ.79076ff7e9112f0a4b52.jpg",
+    "static/media/website.png": "/static/media/website.269a97ed953134736f5c.png",
+    "static/media/OC_Logo.png": "/static/media/OC_Logo.c39365998992cab4e4e2.png",
+    "index.html": "/index.html",
+    "main.4c098cee.css.map": "/static/css/main.4c098cee.css.map",
+    "main.0b695f56.js.map": "/static/js/main.0b695f56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c098cee.css",
+    "static/js/main.0b695f56.js"
+  ]
+}
